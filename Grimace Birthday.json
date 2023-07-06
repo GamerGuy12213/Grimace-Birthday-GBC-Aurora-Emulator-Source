@@ -1,0 +1,16 @@
+{
+  "name": "Grimace Birthday",
+  "author": "GamerGuy12213",
+  "nes": [
+    {
+      "name": "Tetris",
+      "icon": "http://skitty.xyz/aurora/go/assets/img/games/nes/tetris.png",
+      "link": "http://www.nesfiles.com/NES/Tetris/Tetris.nes"
+    },
+    {
+      "name": "Grimace’s Birthday",
+      "icon": "\nimage\n",
+      "link": "https://archive.org/download/grimaces-birthday/grimacebday%20v.1.7.gbc"
+    }
+  ]
+}
